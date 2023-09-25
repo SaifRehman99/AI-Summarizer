@@ -1,0 +1,4 @@
+# Copy your keys here
+<!-- Rename it to .env -->
+VITE_RapidAPI_Key=
+VITE_RapidAPI_Host=
